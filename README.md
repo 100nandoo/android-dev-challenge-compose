@@ -1,4 +1,4 @@
-# Put title of your app here
+# Android Dev Challenge Compose
 
 ![Workflow result](https://github.com/100nandoo/android-dev-challenge-compose/workflows/Check/badge.svg)
 
@@ -11,7 +11,8 @@ Dog Adoption App
 
 
 ## :camera_flash: Screenshots
-<img src="/results/screenshot_1.png" width="260">&emsp;<img src="/results/screenshot_2.png" width="260">
+<img src="/results/screenshot_1.png" width="260">&emsp;<img src="/results/screenshot_2.png" width="260">&emsp;<img src="/results/screenshot_3.png" width="260">
+
 
 ![](results/demo.gif)
 
